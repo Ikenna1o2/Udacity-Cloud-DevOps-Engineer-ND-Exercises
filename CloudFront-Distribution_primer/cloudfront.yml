@@ -1,3 +1,6 @@
+# Setup - CloudFront Distribution Primer
+# At the very end of the pipeline, you will need to make a switch from the old infrastructure to the new as you learned about with the Blue Green Deployment strategy. 
+# We will use CloudFormation and CloudFront to accomplish this
 Description: 
   Cloudfront distribution for UdaPeople.
 
